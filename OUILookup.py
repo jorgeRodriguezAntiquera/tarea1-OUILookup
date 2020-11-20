@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 
-# Script que genera tiempos aleatorios de llegada de paquetes con
-# una tasa de arribo --rate, entre 0 y --maxtime segundos.
-
 # Modo de uso:
 #
-# Uso: ./random-test.py --ip <ip> | --mac <maximum time> [--help] 
+# Uso: ./OUILookup.py --ip <ip> | --mac <mac> [--help] 
 #
 # Parametros:
 #     --ip: specify the IP of the host to query.
