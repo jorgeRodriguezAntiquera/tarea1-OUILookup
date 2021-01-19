@@ -46,6 +46,7 @@ def main():
     #RATE y MAX_TIME deben estar ingresadas.
     if (MAC == None and IP == None):
       print ("Error: Faltan parametros obligatorios.")
+      print ("test")
       uso()
 
     
